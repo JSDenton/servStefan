@@ -1,5 +1,2 @@
 # servStefan
-rzeczy na serwerowe do stefańczyka
-
-Hej hej
-Witam
+rzeczy na aplikacje serwerowe do pana Stefańczyka
